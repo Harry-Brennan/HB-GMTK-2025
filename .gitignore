@@ -73,3 +73,4 @@ GMTK_2025/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 GMTK_2025/DerivedDataCache/*
+GMTK_2025/Saved/Logs/GMTK_2025.log
