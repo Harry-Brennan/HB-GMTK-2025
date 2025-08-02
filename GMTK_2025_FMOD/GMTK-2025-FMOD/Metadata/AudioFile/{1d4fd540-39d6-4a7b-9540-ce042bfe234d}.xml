@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1d4fd540-39d6-4a7b-9540-ce042bfe234d}">
+		<property name="assetPath">
+			<value>In-Game/Typing Incorrect.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1581250000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04eda080-5466-401f-a60e-8cf1125f4fa6}</destination>
+		</relationship>
+	</object>
+</objects>
