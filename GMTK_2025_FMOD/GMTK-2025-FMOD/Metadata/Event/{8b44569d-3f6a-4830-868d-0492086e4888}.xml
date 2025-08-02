@@ -5,7 +5,7 @@
 			<value>Connection Correct</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c93c1405-97b1-4001-b601-8cfbe625f12f}</destination>
@@ -92,9 +92,11 @@
 	<object class="MixerBusEffectChain" id="{ef66c252-3ee2-423f-a066-794e821d17ac}">
 		<relationship name="effects">
 			<destination>{a87a5ae7-8683-40dd-9735-44743b0559f5}</destination>
+			<destination>{2b114755-3f26-4c60-9676-c1510f5d752b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3d7b3b50-d115-4e78-9842-15af3a08f6b9}" />
 	<object class="MixerBusFader" id="{2b35c75b-7063-43f0-b6a7-f013c7a416d1}" />
 	<object class="MixerBusFader" id="{a87a5ae7-8683-40dd-9735-44743b0559f5}" />
+	<object class="SpatialiserEffect" id="{2b114755-3f26-4c60-9676-c1510f5d752b}" />
 </objects>

@@ -5,7 +5,7 @@
 			<value>Popup Whoosh</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c93c1405-97b1-4001-b601-8cfbe625f12f}</destination>
@@ -82,7 +82,11 @@
 			<destination>{e3d2b8ee-f6c4-43c0-92a9-e2dbf36076e8}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{754e423a-918f-4b65-bd8c-67e9bfe90580}" />
+	<object class="MultiSound" id="{754e423a-918f-4b65-bd8c-67e9bfe90580}">
+		<relationship name="sounds">
+			<destination>{6d1ffc70-e671-4ed5-a499-3ed58b5d3a8b}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{a7bee265-77ec-44e3-8e0f-ee11d6b411d5}">
 		<relationship name="effects">
 			<destination>{6a8c7646-693f-4a6b-be0a-3be69f755912}</destination>
@@ -95,6 +99,28 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{03604f18-02ec-49ea-8c39-234c02f81b96}" />
+	<object class="MultiSound" id="{6d1ffc70-e671-4ed5-a499-3ed58b5d3a8b}">
+		<relationship name="sounds">
+			<destination>{d102f7ff-c061-4c7e-a81b-e89c668b6552}</destination>
+			<destination>{51510f70-c8d9-423f-b64a-b1ec91f20831}</destination>
+			<destination>{710d7639-7e38-40c1-a512-95cb015aca75}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{6a8c7646-693f-4a6b-be0a-3be69f755912}" />
 	<object class="MixerBusFader" id="{6a2e7eff-afdf-4d3e-9bc4-807a41901c78}" />
+	<object class="SingleSound" id="{d102f7ff-c061-4c7e-a81b-e89c668b6552}">
+		<relationship name="audioFile">
+			<destination>{1e19c62e-1b24-418c-af85-fa5561ce9712}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{51510f70-c8d9-423f-b64a-b1ec91f20831}">
+		<relationship name="audioFile">
+			<destination>{d33b076a-dc59-4d68-98d7-de7cf026f1c7}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{710d7639-7e38-40c1-a512-95cb015aca75}">
+		<relationship name="audioFile">
+			<destination>{a1df713c-03bd-43c4-808b-e14809897be4}</destination>
+		</relationship>
+	</object>
 </objects>
