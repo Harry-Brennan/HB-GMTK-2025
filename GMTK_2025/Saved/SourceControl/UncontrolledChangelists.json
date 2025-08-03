@@ -9,7 +9,19 @@
 				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Pause_Menu.uasset",
 				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Level_Info.uasset",
 				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Options.uasset",
-				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Maps/Main_Menu.umap"
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Maps/Main_Menu.umap",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/In-Game/WBP_Selection_Icons.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/Selection/BP_Selection_Instruction.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/Colours/BP_Colour_Instruction.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Player/Blueprints/BP_Player.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/BP_Instruction_Manager.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/BP_Instruction_Parent.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/Colours/BP_Colour_Child.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/In-Game/WBP_Instruction_Type_Popup.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/Matches/Enum_Match_Types.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/Matches/BP_Match_Child.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/Instructions_Tasks/Matches/BP_Match_Instruction.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/In-Game/WBP_Match_Icon.uasset"
 			]
 		}
 	]
