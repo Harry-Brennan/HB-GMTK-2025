@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Main_Menu.uasset",
-				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Pause_Menu.uasset"
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Pause_Menu.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Level_Info.uasset",
+				"C:/Users/harry/Documents/HB-GMTK-2025/GMTK_2025/Content/UI/Menus/WBP_Options.uasset"
 			]
 		}
 	]
