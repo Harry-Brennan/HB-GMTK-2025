@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a9be5463-4da3-45e4-8624-0a9a118037bc}">
+		<property name="assetPath">
+			<value>In-Game/Loop Win 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0794104308390022</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04eda080-5466-401f-a60e-8cf1125f4fa6}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{bcdf5d9b-c00d-4148-a5a6-38d63a3bdf5f}">
+		<property name="assetPath">
+			<value>In-Game/Loop Win 5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.78775510204081634</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04eda080-5466-401f-a60e-8cf1125f4fa6}</destination>
+		</relationship>
+	</object>
+</objects>
